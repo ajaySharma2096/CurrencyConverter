@@ -1,0 +1,75 @@
+.currencyDropdown{
+    width: 200px;
+}
+
+.pd-25{
+    padding: 25px;
+}
+
+.top-header{
+    font-size: 25px;
+    font-weight: 600;
+    padding: 10px;
+    text-align: center;
+}
+
+.dd-from{
+    float: left;
+}
+
+.dd-to{
+    float: right;
+}
+
+.dd-container{
+    width: 500px;
+    height: 50px;
+    margin: 2% 0% 0% 30%;
+}
+
+.val-input{
+    padding: 12px;
+    border-radius: 4px;
+    margin-top: 4%;
+    border: 1px solid #aba8a8;
+}
+
+.submit-btn{
+    width: 100px;
+    padding: 12px;
+    border-radius: 4px;
+    background: #899194;
+    outline: none;
+    color: white;
+    cursor: pointer;
+    border: 1px solid #899194;
+    margin-left: 50px;
+}
+
+.btn-container{
+    margin-top: 3%;
+    margin-left: -3%;
+}
+
+.res-container{
+    margin-top: 3%;
+    margin-left: 2%;
+}
+
+.val-input:hover{
+    outline: none !important;
+}
+
+.MuiSelect-outlined.MuiSelect-outlined{
+    padding: 14px !important;
+    font-size: 12px !important;
+}
+
+.MuiFormLabel-root{
+    font-size: 12px !important;
+}
+
+option{
+    font-size: 14px;
+    padding: 5px !important;
+}
